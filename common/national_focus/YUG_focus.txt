@@ -16,8 +16,8 @@ initial_show_position = {
 focus = {
 id =  YUG_focus1
 icon = GFX
-x = 
-y =
+x = 5
+y = 10
 cost = 10
 available_if_capitulated = no
 
