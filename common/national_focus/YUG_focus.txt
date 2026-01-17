@@ -13,14 +13,15 @@ defualt = no
 initial_show_position = {
     focus = politic_YUG
 }
+
 focus = {
 id =  YUG_focus1
-icon = GFX
+icon = 
 x = 5
 y = 10
 cost = 10
 available_if_capitulated = no
 
-completeion_reward = {
-add_politic_power = 10
+completion_reward = {
+add_politic_power = 100
 }
